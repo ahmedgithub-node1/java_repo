@@ -2,7 +2,7 @@ package maven_project_demo;
 
 import static org.junit.Assert.*;
 
-import org.junit.Test;1
+import org.junit.Test;
 
 public class SamplemethodTest {
 
